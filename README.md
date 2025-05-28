@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F730&center=true&vCenter=true&width=600&height=73&lines=Hi%2C+I'm+Nhan+Tran;I'm+working+at+ABeam+Consulting+Vietnam" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00F730&center=true&vCenter=true&width=900&height=73&lines=Hi%2C+I'm+Nhan+Tran;I'm+working+at+ABeam+Consulting+Vietnam" alt="Typing SVG" /></a>
 </div>
